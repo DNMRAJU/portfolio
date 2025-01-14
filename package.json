@@ -1,5 +1,6 @@
 {
   "private": true,
+  "homepage": "https://dnmraju.github.io/portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
