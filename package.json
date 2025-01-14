@@ -1,15 +1,9 @@
 {
   "private": true,
-  "homepage": "https://www.rajudantuluri.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "echo 'skipping tests for now'",
-    "test:coverage": "echo 'skipping tests for now'",
-    "eject": "react-scripts eject",
-    "lint": "eslint --cache --fix --max-warnings 0 ./src/",
-    "format": "prettier --cache --write .",
-    "prepare": "husky"
+    "test": "echo 'skipping tests for now'"
   },
   "dependencies": {
     "react": "^18.3.1",
