@@ -71,7 +71,7 @@ I am a passionate software engineer with a strong foundation in computer science
 
 ## 🌐 **Links**
 - **Portfolio:** [dnmraju.github.io/portfolio](https://dnmraju.github.io/portfolio/)
-- **LinkedIn:** [linkedin.com/in/raju](https://www.linkedin.com/in/raju)
+- **LinkedIn:** [linkedin.com/in/raju](https://www.linkedin.com/in/dnmraju)
 - **GitHub:** [github.com/DNMRAJU](https://github.com/DNMRAJU)
 
 ---
